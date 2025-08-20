@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8f0;
+    padding: 30px;
+    max-width: 600px;
+    margin: auto;
+    background-image: url(imagens/dajlprs-3e380c17-9386-41f9-b70c-bc16272350b6.gif);
+}
+
+h1, h2 {
+    color: #d35400;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 8px;
+    margin-right: 10px;
+    width: 40%;
+}
+
+button {
+    padding: 8px 15px;
+    background-color: #e67e22;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background-color: #ffe0b2;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    float: right;
+}
